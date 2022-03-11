@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Agile -LAB2";
+    cout << "Welcome\n" << "It's Agile -LAB2";
     return 0;
 }
